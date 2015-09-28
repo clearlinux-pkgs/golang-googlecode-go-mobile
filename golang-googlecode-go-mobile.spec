@@ -1,6 +1,6 @@
 Name     : golang-googlecode-go-mobile 
 Version  : 0
-Release  : 1
+Release  : 2
 URL      : https://github.com/golang/mobile/archive/159023b6193b7d521d55cc5d9619278e2e1fd4a5.tar.gz
 Source0  : https://github.com/golang/mobile/archive/159023b6193b7d521d55cc5d9619278e2e1fd4a5.tar.gz
 Summary  : No detailed summary available
